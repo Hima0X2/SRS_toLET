@@ -46,12 +46,9 @@ Welcome to the **House Rental Management System** Software Requirements Specific
 
 ---
 
-## 🖼 Sample UML Diagram
+## 🖼 Use Case Diagram
 
-> 📌 Diagrams are available in the `/diagrams` folder.
-
-![Use Case Diagram](diagrams/use_case_diagram.png)
-
+![image](https://github.com/user-attachments/assets/1ed75660-d3de-49a8-88f9-3a7d0863a33c)
 ---
 
 ---
